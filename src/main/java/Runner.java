@@ -4,6 +4,7 @@ public class Runner {
         System.out.println("versiyon1");
         System.out.println("versiyon2");
         System.out.println("versiyon3");
+        System.out.println("techpro 1");
 
 
     }
